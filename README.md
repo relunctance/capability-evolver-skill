@@ -1,5 +1,10 @@
 # capability-evolver-skill
 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](#)
+[![platforms](https://img.shields.io/badge/platforms-claude_code%20%7C%20openclaw%20%7C%20hermes-blue.svg)](#)
+[![version](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
+[![category](https://img.shields.io/badge/category-DevOps-blue.svg)](#)
+
 确定性日志分析引擎 — 分析 agent 运行时日志，检测错误模式，计算健康评分，生成结构化改进建议。
 
 ## 触发条件

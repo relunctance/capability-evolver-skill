@@ -1,10 +1,10 @@
 ---
 name: capability-evolver-skill
-description: 确定性日志分析引擎，分析运行时日志检测错误模式、计算健康评分、生成改进建议。触发词：分析日志、错误诊断、健康检查、改进建议、系统巡检
-category: devops
+description: 当需要分析日志、诊断错误、系统健康检查、健康评分、改进建议时使用。确定性日志分析引擎，检测错误模式、计算健康评分、生成改进建议，完全本地运行无外部依赖
+version: "1.0.0"
 author: relunctance
-created: 2026-05-14
-updated: 2026-05-14
+license: MIT
+category: devops
 tags:
   - 日志分析
   - 健康评分
@@ -12,6 +12,12 @@ tags:
   - 确定性分析
   - capability
   - evolve
+metadata:
+  hermes:
+    platforms:
+      claude_code: true
+      openclaw: true
+      hermes: true
 ---
 
 # capability-evolver-skill
